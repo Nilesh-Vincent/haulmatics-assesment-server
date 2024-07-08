@@ -16,7 +16,7 @@ This project is a NestJS authentication and authorization system using JWT with 
     cd <project_directory>
     ```
 
-3. **Build and Start Docker Compose**
+3. **Build and Start with the Docker Compose**
 
     ```bash
     docker-compose up --build
